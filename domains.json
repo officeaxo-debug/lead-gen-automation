@@ -1,0 +1,67 @@
+{
+  "domains": [
+    {
+      "domain": "retirementvillagesgoldcoast.com.au",
+      "niche": "retirement living",
+      "service": "Retirement Villages",
+      "location": "Gold Coast, QLD",
+      "ftp_host": "ftp://145.79.14.75",
+      "ftp_username": "u480923113.retirementvillagesgoldcoast.com.au",
+      "ftp_password": "Blog2025Auto!"
+    },
+    {
+      "domain": "jacksonclarkerealestate.com.au",
+      "niche": "real estate",
+      "service": "Real Estate Agent",
+      "location": "Gold Coast, QLD",
+      "ftp_host": "ftp://145.79.14.75",
+      "ftp_username": "u480923113.jacksonclarkerealestate.com.au",
+      "ftp_password": "Blog2025Auto!"
+    },
+    {
+      "domain": "goldcoaststaging.com.au",
+      "niche": "home staging",
+      "service": "Property Styling & Staging",
+      "location": "Gold Coast, QLD",
+      "ftp_host": "ftp://145.79.14.75",
+      "ftp_username": "u480923113.goldcoaststaging.com.au",
+      "ftp_password": "Blog2025Auto!"
+    },
+    {
+      "domain": "goldcoastdeckrestoration.com.au",
+      "niche": "deck restoration",
+      "service": "Roof & Deck Restoration",
+      "location": "Gold Coast, QLD",
+      "ftp_host": "ftp://145.79.14.75",
+      "ftp_username": "u480923113.goldcoastdeckrestoration.com.au",
+      "ftp_password": "Blog2025Auto!"
+    },
+    {
+      "domain": "epoxyfloorgoldcoast.com.au",
+      "niche": "epoxy flooring",
+      "service": "Epoxy Floor Installation & Restoration",
+      "location": "Gold Coast, QLD",
+      "ftp_host": "ftp://145.79.14.75",
+      "ftp_username": "u480923113",
+      "ftp_password": "Blog2025Auto!"
+    },
+    {
+      "domain": "emergencytowingtownsville.com.au",
+      "niche": "emergency towing",
+      "service": "Emergency Towing",
+      "location": "Townsville, QLD",
+      "ftp_host": "ftp://145.79.14.75",
+      "ftp_username": "u480923113.emergencytowingtownsville.com.au",
+      "ftp_password": "Blog2025Auto!"
+    },
+    {
+      "domain": "emergencylocksmithmackay.com.au",
+      "niche": "emergency locksmith",
+      "service": "Emergency Locksmith",
+      "location": "Mackay, QLD",
+      "ftp_host": "ftp://145.79.14.75",
+      "ftp_username": "u480923113.emergencylocksmithmackay.com.au",
+      "ftp_password": "Blog2025Auto!"
+    }
+  ]
+}
